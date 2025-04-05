@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="logo.png" width="100" alt="App Logo" />
-</p>
 
 <h1 align="center">🤖 3-Agents Android Security System</h1>
 
